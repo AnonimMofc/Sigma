@@ -1,9 +1,0 @@
-from random import randint
-from time import sleep
-sleep(2)
-print('hi maybe...')
-sleep(3)
-print(f'your code is {randint(1,10)}')
-sleep(3)
-print('bye')
-sleep(3)
